@@ -1,0 +1,205 @@
+{
+  "arch": "x86_64",
+  "build": "hbf74d83_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "llvm-openmp >=14.0.6"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/soxr-0.1.3-hbf74d83_3",
+  "features": "",
+  "files": [
+    "include/soxr-lsr.h",
+    "include/soxr.h",
+    "lib/libsoxr-lsr.0.1.9.dylib",
+    "lib/libsoxr-lsr.0.dylib",
+    "lib/libsoxr-lsr.dylib",
+    "lib/libsoxr.0.1.2.dylib",
+    "lib/libsoxr.0.dylib",
+    "lib/libsoxr.dylib",
+    "lib/pkgconfig/soxr-lsr.pc",
+    "lib/pkgconfig/soxr.pc",
+    "share/doc/libsoxr/LICENCE",
+    "share/doc/libsoxr/NEWS",
+    "share/doc/libsoxr/README",
+    "share/doc/libsoxr/examples/1-single-block.c",
+    "share/doc/libsoxr/examples/1a-lsr.c",
+    "share/doc/libsoxr/examples/2-stream.C",
+    "share/doc/libsoxr/examples/3-options-input-fn.c",
+    "share/doc/libsoxr/examples/4-split-channels.c",
+    "share/doc/libsoxr/examples/5-variable-rate.c",
+    "share/doc/libsoxr/examples/README",
+    "share/doc/libsoxr/examples/examples-common.h"
+  ],
+  "fn": "soxr-0.1.3-hbf74d83_3.conda",
+  "license": "LGPL-2.1-or-later",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/soxr-0.1.3-hbf74d83_3",
+    "type": 1
+  },
+  "md5": "27b06405f0b654997e5bda2b33e5e2e7",
+  "name": "soxr",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/soxr-0.1.3-hbf74d83_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/soxr-lsr.h",
+        "path_type": "hardlink",
+        "sha256": "d93e2f3055c584dab454ef99bf3f0dace537a8ae3a2b57a6a113fe43f8e74d6a",
+        "sha256_in_prefix": "d93e2f3055c584dab454ef99bf3f0dace537a8ae3a2b57a6a113fe43f8e74d6a",
+        "size_in_bytes": 3112
+      },
+      {
+        "_path": "include/soxr.h",
+        "path_type": "hardlink",
+        "sha256": "dfd18fae32b77b484bda918dbaac122ddd402512041a96977fc01377f69684a4",
+        "sha256_in_prefix": "dfd18fae32b77b484bda918dbaac122ddd402512041a96977fc01377f69684a4",
+        "size_in_bytes": 13984
+      },
+      {
+        "_path": "lib/libsoxr-lsr.0.1.9.dylib",
+        "path_type": "hardlink",
+        "sha256": "f3b71223852319436583ff4a23d8234844ebfc0cdc1ca028bcdb212edc721269",
+        "sha256_in_prefix": "f3b71223852319436583ff4a23d8234844ebfc0cdc1ca028bcdb212edc721269",
+        "size_in_bytes": 18440
+      },
+      {
+        "_path": "lib/libsoxr-lsr.0.dylib",
+        "path_type": "softlink",
+        "sha256": "f3b71223852319436583ff4a23d8234844ebfc0cdc1ca028bcdb212edc721269",
+        "size_in_bytes": 18440
+      },
+      {
+        "_path": "lib/libsoxr-lsr.dylib",
+        "path_type": "softlink",
+        "sha256": "f3b71223852319436583ff4a23d8234844ebfc0cdc1ca028bcdb212edc721269",
+        "size_in_bytes": 18440
+      },
+      {
+        "_path": "lib/libsoxr.0.1.2.dylib",
+        "path_type": "hardlink",
+        "sha256": "43f1442ff9559444ef60beba56d2d9abd5f2e1ca345cf7f026773eb9ea5bfb32",
+        "sha256_in_prefix": "43f1442ff9559444ef60beba56d2d9abd5f2e1ca345cf7f026773eb9ea5bfb32",
+        "size_in_bytes": 274328
+      },
+      {
+        "_path": "lib/libsoxr.0.dylib",
+        "path_type": "softlink",
+        "sha256": "43f1442ff9559444ef60beba56d2d9abd5f2e1ca345cf7f026773eb9ea5bfb32",
+        "size_in_bytes": 274328
+      },
+      {
+        "_path": "lib/libsoxr.dylib",
+        "path_type": "softlink",
+        "sha256": "43f1442ff9559444ef60beba56d2d9abd5f2e1ca345cf7f026773eb9ea5bfb32",
+        "size_in_bytes": 274328
+      },
+      {
+        "_path": "lib/pkgconfig/soxr-lsr.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/soxr_1674059492778/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "87f6927f073fba02e3372f65713e760e3b8a5d5db3162d562a7f661f23604c81",
+        "sha256_in_prefix": "383e4f6e5fb53304411ce0631d2ceca2b7d912ae8dd336b2fdcf6dbb116869d2",
+        "size_in_bytes": 692
+      },
+      {
+        "_path": "lib/pkgconfig/soxr.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/soxr_1674059492778/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "e18ba7d8162b3a6c5851ccc59f79c437449618f4dde0465a16d485b3f5160fe8",
+        "sha256_in_prefix": "5f641652a9e4643cb66379aa7e22f17eec84576d491563162b22fa4492da66b2",
+        "size_in_bytes": 649
+      },
+      {
+        "_path": "share/doc/libsoxr/LICENCE",
+        "path_type": "hardlink",
+        "sha256": "dc98676341fdcd29d9f279c9679d6a75288785b174ded8d1b2e316c366166135",
+        "sha256_in_prefix": "dc98676341fdcd29d9f279c9679d6a75288785b174ded8d1b2e316c366166135",
+        "size_in_bytes": 1024
+      },
+      {
+        "_path": "share/doc/libsoxr/NEWS",
+        "path_type": "hardlink",
+        "sha256": "490966b220ad4b335057c5c92ecc47380c346709b08f942354df085d05163211",
+        "sha256_in_prefix": "490966b220ad4b335057c5c92ecc47380c346709b08f942354df085d05163211",
+        "size_in_bytes": 2410
+      },
+      {
+        "_path": "share/doc/libsoxr/README",
+        "path_type": "hardlink",
+        "sha256": "c3d94aa8237daeb4e6bd5b6555b72bf5cf1fbe9319f5980fd5362cdc5982f90e",
+        "sha256_in_prefix": "c3d94aa8237daeb4e6bd5b6555b72bf5cf1fbe9319f5980fd5362cdc5982f90e",
+        "size_in_bytes": 2866
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/1-single-block.c",
+        "path_type": "hardlink",
+        "sha256": "52cf2603fb5b03964b716ef93c390c281c6a440b39cb809cf5eadd8f2cee883b",
+        "sha256_in_prefix": "52cf2603fb5b03964b716ef93c390c281c6a440b39cb809cf5eadd8f2cee883b",
+        "size_in_bytes": 2104
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/1a-lsr.c",
+        "path_type": "hardlink",
+        "sha256": "6384ffc5270f79069322182a309a61e1d315807f87a94329fe6038bd975c789f",
+        "sha256_in_prefix": "6384ffc5270f79069322182a309a61e1d315807f87a94329fe6038bd975c789f",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/2-stream.C",
+        "path_type": "hardlink",
+        "sha256": "4f410223670634364778ad4162a2f0082a275436d8653af2994c846bdd0ad7e7",
+        "sha256_in_prefix": "4f410223670634364778ad4162a2f0082a275436d8653af2994c846bdd0ad7e7",
+        "size_in_bytes": 3109
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/3-options-input-fn.c",
+        "path_type": "hardlink",
+        "sha256": "4679ae5ef51d0e02323774a479e2f86278f7e38f94f4c553f3bcae17cc613159",
+        "sha256_in_prefix": "4679ae5ef51d0e02323774a479e2f86278f7e38f94f4c553f3bcae17cc613159",
+        "size_in_bytes": 5139
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/4-split-channels.c",
+        "path_type": "hardlink",
+        "sha256": "61f24f8cde674ba39e70c4ccb3f2e26639c8d077f579821303478116341d683b",
+        "sha256_in_prefix": "61f24f8cde674ba39e70c4ccb3f2e26639c8d077f579821303478116341d683b",
+        "size_in_bytes": 5953
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/5-variable-rate.c",
+        "path_type": "hardlink",
+        "sha256": "5c5759a3118442e8acf75933360f65c9d817cd5cb80a95992b0b07ab1dc2b740",
+        "sha256_in_prefix": "5c5759a3118442e8acf75933360f65c9d817cd5cb80a95992b0b07ab1dc2b740",
+        "size_in_bytes": 3834
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/README",
+        "path_type": "hardlink",
+        "sha256": "8d1ff793183fb5cdc4dd96b2ef98bd83b71406fda0c1d2a97f6de5e77d3c06b4",
+        "sha256_in_prefix": "8d1ff793183fb5cdc4dd96b2ef98bd83b71406fda0c1d2a97f6de5e77d3c06b4",
+        "size_in_bytes": 841
+      },
+      {
+        "_path": "share/doc/libsoxr/examples/examples-common.h",
+        "path_type": "hardlink",
+        "sha256": "b119bbf8790cf195a2aff4b4045853e6892248a3a19d7ac099fa077d9b52a85e",
+        "sha256_in_prefix": "b119bbf8790cf195a2aff4b4045853e6892248a3a19d7ac099fa077d9b52a85e",
+        "size_in_bytes": 1143
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "conda-forge/osx-64::soxr==0.1.3=hbf74d83_3",
+  "sha256": "d274add245e2f9f1b8963533d08ce0761baa78c7923d0c8450ad54d7b2885e77",
+  "size": 127934,
+  "subdir": "osx-64",
+  "timestamp": 1674059732818,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/soxr-0.1.3-hbf74d83_3.conda",
+  "version": "0.1.3"
+}

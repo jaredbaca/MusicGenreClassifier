@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/jbaca/Desktop/Class_Work/Summer 2023/Data Science With Python/Final Project/cs677_venv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}

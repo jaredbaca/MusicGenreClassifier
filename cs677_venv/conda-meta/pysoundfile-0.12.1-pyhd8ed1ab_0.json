@@ -1,0 +1,139 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cffi",
+    "libsndfile >=1.2",
+    "numpy",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/pysoundfile-0.12.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/_soundfile.py",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/LICENSE",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/METADATA",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/RECORD",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/WHEEL",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/soundfile-0.12.1.dist-info/zip-safe",
+    "lib/python3.8/site-packages/soundfile.py",
+    "lib/python3.8/site-packages/__pycache__/_soundfile.cpython-38.pyc",
+    "lib/python3.8/site-packages/__pycache__/soundfile.cpython-38.pyc"
+  ],
+  "fn": "pysoundfile-0.12.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/pysoundfile-0.12.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "205f7052b6643de0159c1c050d0f1bc5",
+  "name": "pysoundfile",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/pysoundfile-0.12.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/_soundfile.py",
+        "path_type": "hardlink",
+        "sha256": "1fc1ec211ebeca8879c229fa9b458669070b7eaed64d309a72f146c426fc1f60",
+        "sha256_in_prefix": "1fc1ec211ebeca8879c229fa9b458669070b7eaed64d309a72f146c426fc1f60",
+        "size_in_bytes": 5561
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "0dd2e411fed553ba891845077e5a32c5b726d1bbc46ff31a2118ae1ccf816752",
+        "sha256_in_prefix": "0dd2e411fed553ba891845077e5a32c5b726d1bbc46ff31a2118ae1ccf816752",
+        "size_in_bytes": 1512
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ab7f89e74154c5068b9f2c0039379eaf5361e416c2c31eb6189e8a62abedd448",
+        "sha256_in_prefix": "ab7f89e74154c5068b9f2c0039379eaf5361e416c2c31eb6189e8a62abedd448",
+        "size_in_bytes": 14825
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "917754cbab7ed1abf39d5de9ae40ddd5d8216b55541f38576aa54a0e51a5d098",
+        "sha256_in_prefix": "917754cbab7ed1abf39d5de9ae40ddd5d8216b55541f38576aa54a0e51a5d098",
+        "size_in_bytes": 1004
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "e6b2a65a3c4ecb28b53ab4db9a5b9b345a4e0ab89b665030c8d8d434d5ca3092",
+        "sha256_in_prefix": "e6b2a65a3c4ecb28b53ab4db9a5b9b345a4e0ab89b665030c8d8d434d5ca3092",
+        "size_in_bytes": 122
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4ad39332a41a7ba12cd3bd4aad1b16126eabaaf557a9d0293d10d58cbcee45e7",
+        "sha256_in_prefix": "4ad39332a41a7ba12cd3bd4aad1b16126eabaaf557a9d0293d10d58cbcee45e7",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e1bdd50ba03a85f27ac5198bd9a4c6a8a429fa81a56c33dbfec84ba25b98a9b9",
+        "sha256_in_prefix": "e1bdd50ba03a85f27ac5198bd9a4c6a8a429fa81a56c33dbfec84ba25b98a9b9",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "site-packages/soundfile-0.12.1.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/soundfile.py",
+        "path_type": "hardlink",
+        "sha256": "c40329db956b2dd1aee349bea622f36630d3db7169752c43308f44c541603a57",
+        "sha256_in_prefix": "c40329db956b2dd1aee349bea622f36630d3db7169752c43308f44c541603a57",
+        "size_in_bytes": 60756
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/_soundfile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/soundfile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge/noarch::pysoundfile==0.12.1=pyhd8ed1ab_0",
+  "sha256": "ff15e03da8b8df47c5f49e787699723a66de9c623c193f695a1b58814be50bee",
+  "size": 28091,
+  "subdir": "noarch",
+  "timestamp": 1676571588187,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pysoundfile-0.12.1-pyhd8ed1ab_0.conda",
+  "version": "0.12.1"
+}

@@ -1,0 +1,73 @@
+{
+  "arch": "x86_64",
+  "build": "py38h1de35cc_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "portaudio",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/pyaudio-0.2.11-py38h1de35cc_2",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/PyAudio-0.2.11-py3.8.egg-info",
+    "lib/python3.8/site-packages/__pycache__/pyaudio.cpython-38.pyc",
+    "lib/python3.8/site-packages/_portaudio.cpython-38-darwin.so",
+    "lib/python3.8/site-packages/pyaudio.py"
+  ],
+  "fn": "pyaudio-0.2.11-py38h1de35cc_2.conda",
+  "legacy_bz2_md5": "a9f58fa941128637a6364bb59c373471",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/pyaudio-0.2.11-py38h1de35cc_2",
+    "type": 1
+  },
+  "md5": "bb60fd38faa509ecd288ba5741b6610d",
+  "name": "pyaudio",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/pyaudio-0.2.11-py38h1de35cc_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/PyAudio-0.2.11-py3.8.egg-info",
+        "path_type": "hardlink",
+        "sha256": "70a3624de610afe15b5cdb131a29f8026b93f670db08405ebab5ff0370f05e0b",
+        "sha256_in_prefix": "70a3624de610afe15b5cdb131a29f8026b93f670db08405ebab5ff0370f05e0b",
+        "size_in_bytes": 1537
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/pyaudio.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ed5a76c183204bafc06a0df5af9ac38a26aada2a7f8af7cf7a700650ff7c9ff",
+        "sha256_in_prefix": "3ed5a76c183204bafc06a0df5af9ac38a26aada2a7f8af7cf7a700650ff7c9ff",
+        "size_in_bytes": 30553
+      },
+      {
+        "_path": "lib/python3.8/site-packages/_portaudio.cpython-38-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/076d5539-979a-48b7-71ed-814fa646d787/volume/pyaudio_1584480166472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "81234d4471ca129513d3eef8be935f89fa2c603831ee6ad40a6df93c344981c1",
+        "sha256_in_prefix": "9496547c7d6651fe6744c8f62649a1588be88a48a643012b27326f7947eba590",
+        "size_in_bytes": 42384
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pyaudio.py",
+        "path_type": "hardlink",
+        "sha256": "aa34f82b3c548780cee3962f0d5d11a7ca0c86944340443b52f9ae3445380121",
+        "sha256_in_prefix": "aa34f82b3c548780cee3962f0d5d11a7ca0c86944340443b52f9ae3445380121",
+        "size_in_bytes": 38498
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "defaults/osx-64::pyaudio==0.2.11=py38h1de35cc_2",
+  "sha256": "1d062cc8b7fe040957e4f28f7ee3ed9efb5b85c6a2f447cabf35aecf05103ab0",
+  "size": 207460,
+  "subdir": "osx-64",
+  "timestamp": 1584480408998,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pyaudio-0.2.11-py38h1de35cc_2.conda",
+  "version": "0.2.11"
+}

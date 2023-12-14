@@ -1,0 +1,256 @@
+{
+  "arch": "x86_64",
+  "build": "py38h50d1736_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "ffmpeg",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/audioread-3.0.0-py38h50d1736_1",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/pbr.json",
+    "lib/python3.8/site-packages/audioread-3.0.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/audioread/__init__.py",
+    "lib/python3.8/site-packages/audioread/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/base.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/ffdec.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/gstdec.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/macca.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/maddec.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/rawread.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/__pycache__/version.cpython-38.pyc",
+    "lib/python3.8/site-packages/audioread/base.py",
+    "lib/python3.8/site-packages/audioread/exceptions.py",
+    "lib/python3.8/site-packages/audioread/ffdec.py",
+    "lib/python3.8/site-packages/audioread/gstdec.py",
+    "lib/python3.8/site-packages/audioread/macca.py",
+    "lib/python3.8/site-packages/audioread/maddec.py",
+    "lib/python3.8/site-packages/audioread/rawread.py",
+    "lib/python3.8/site-packages/audioread/version.py"
+  ],
+  "fn": "audioread-3.0.0-py38h50d1736_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/audioread-3.0.0-py38h50d1736_1",
+    "type": 1
+  },
+  "md5": "d5c743b7879267be87ff7776634fa367",
+  "name": "audioread",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/audioread-3.0.0-py38h50d1736_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e00fff68a75a582132842e33426730699255986f1dec362252f7423db027019d",
+        "sha256_in_prefix": "e00fff68a75a582132842e33426730699255986f1dec362252f7423db027019d",
+        "size_in_bytes": 1063
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ed2a6ac120d8b0e7e9f333ebb424bf19fe2f7526edfeff511e98905efba2f230",
+        "sha256_in_prefix": "ed2a6ac120d8b0e7e9f333ebb424bf19fe2f7526edfeff511e98905efba2f230",
+        "size_in_bytes": 7945
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "09bf933eeb8e1963a611ff927273ed1e38f57038d5c4ce21568f3aed079ac44f",
+        "sha256_in_prefix": "09bf933eeb8e1963a611ff927273ed1e38f57038d5c4ce21568f3aed079ac44f",
+        "size_in_bytes": 1892
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "465b3ed2c1c90d9649f6245ff92508415a9d53fc6a3a5362f1e78c704a26b5e9",
+        "sha256_in_prefix": "465b3ed2c1c90d9649f6245ff92508415a9d53fc6a3a5362f1e78c704a26b5e9",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/pbr.json",
+        "path_type": "hardlink",
+        "sha256": "6af04f2a321a074231dfc2a5171b57ac49100632b0694195bcb753f98c460226",
+        "sha256_in_prefix": "6af04f2a321a074231dfc2a5171b57ac49100632b0694195bcb753f98c460226",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread-3.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b12b2e5d005a0c594cca25e40a38c14adb4108af39cb24261327ca93187db208",
+        "sha256_in_prefix": "b12b2e5d005a0c594cca25e40a38c14adb4108af39cb24261327ca93187db208",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a7fec325abcc1deec7885e98f450ca680950bbe91cfa9e9369a4aa7d0b05bba4",
+        "sha256_in_prefix": "a7fec325abcc1deec7885e98f450ca680950bbe91cfa9e9369a4aa7d0b05bba4",
+        "size_in_bytes": 3566
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "256af6d330d831079ad6f84ab232e450f2447b621449d2e75ca46b33f9523071",
+        "sha256_in_prefix": "256af6d330d831079ad6f84ab232e450f2447b621449d2e75ca46b33f9523071",
+        "size_in_bytes": 2901
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/base.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e1a4704b110eb568b627a09166bb7596fa0380f2751d3236221a7f297766c13",
+        "sha256_in_prefix": "3e1a4704b110eb568b627a09166bb7596fa0380f2751d3236221a7f297766c13",
+        "size_in_bytes": 347
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "555f1ae312de9894853825219fbf260457fe38d8fdefe3ec7ca2dc19251ad398",
+        "sha256_in_prefix": "555f1ae312de9894853825219fbf260457fe38d8fdefe3ec7ca2dc19251ad398",
+        "size_in_bytes": 680
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/ffdec.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3847623099f74e85d7535384c4a73c6e26423df89046423d0b0938b692c22562",
+        "sha256_in_prefix": "3847623099f74e85d7535384c4a73c6e26423df89046423d0b0938b692c22562",
+        "size_in_bytes": 7125
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/gstdec.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d9af8271d674b145405d96ec5caef79a1dec47e3055fc8ffe3f5879eadb9b0c4",
+        "sha256_in_prefix": "d9af8271d674b145405d96ec5caef79a1dec47e3055fc8ffe3f5879eadb9b0c4",
+        "size_in_bytes": 10711
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/macca.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc6f1135cdc3e57ac1fdba0cd68598753e63a4bed635c66c4c67759a8694fadf",
+        "sha256_in_prefix": "fc6f1135cdc3e57ac1fdba0cd68598753e63a4bed635c66c4c67759a8694fadf",
+        "size_in_bytes": 9303
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/maddec.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "92383a2ea97959398bef3c0097a41e544cf91a5ee6e972da8956913ebee23a45",
+        "sha256_in_prefix": "92383a2ea97959398bef3c0097a41e544cf91a5ee6e972da8956913ebee23a45",
+        "size_in_bytes": 2645
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/rawread.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "335eee8af10b2a55c6e6cc87168e1ed19d577f2e67d13bd24e9c0674b034dc5a",
+        "sha256_in_prefix": "335eee8af10b2a55c6e6cc87168e1ed19d577f2e67d13bd24e9c0674b034dc5a",
+        "size_in_bytes": 3963
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/__pycache__/version.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "541bf403d11f37da10e6e8d2545ba44684ed4d574f95289ac2d99508053e8034",
+        "sha256_in_prefix": "541bf403d11f37da10e6e8d2545ba44684ed4d574f95289ac2d99508053e8034",
+        "size_in_bytes": 238
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/base.py",
+        "path_type": "hardlink",
+        "sha256": "00ed562ab51442dae1de10aebc725a02efc75909c85572ef910c8e09616d5a15",
+        "sha256_in_prefix": "00ed562ab51442dae1de10aebc725a02efc75909c85572ef910c8e09616d5a15",
+        "size_in_bytes": 725
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "453c18069325072e1b58f792c62768cfaf580978d3b691eb1c532e1d6889ea1d",
+        "sha256_in_prefix": "453c18069325072e1b58f792c62768cfaf580978d3b691eb1c532e1d6889ea1d",
+        "size_in_bytes": 962
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/ffdec.py",
+        "path_type": "hardlink",
+        "sha256": "d2dd7c20f6471ac641b22be5c26c9ba74d1447bd1da02b8a5f6cb5e811f2f6f9",
+        "sha256_in_prefix": "d2dd7c20f6471ac641b22be5c26c9ba74d1447bd1da02b8a5f6cb5e811f2f6f9",
+        "size_in_bytes": 10534
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/gstdec.py",
+        "path_type": "hardlink",
+        "sha256": "92c874f2c12037e6cb552a084e87744247908570e1eecd7fdc1314c13182bb6b",
+        "sha256_in_prefix": "92c874f2c12037e6cb552a084e87744247908570e1eecd7fdc1314c13182bb6b",
+        "size_in_bytes": 14643
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/macca.py",
+        "path_type": "hardlink",
+        "sha256": "1ce16ebbe4a55a20997ad499c466bebb65e774bcb7ccc0ac7ce3aa029ac57c73",
+        "sha256_in_prefix": "1ce16ebbe4a55a20997ad499c466bebb65e774bcb7ccc0ac7ce3aa029ac57c73",
+        "size_in_bytes": 10899
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/maddec.py",
+        "path_type": "hardlink",
+        "sha256": "f4c6da7469012185d583366ae9c818095d85019c1593c0164d8aec5b279ef7c8",
+        "sha256_in_prefix": "f4c6da7469012185d583366ae9c818095d85019c1593c0164d8aec5b279ef7c8",
+        "size_in_bytes": 2518
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/rawread.py",
+        "path_type": "hardlink",
+        "sha256": "78b036de34f8d5cd5ed27c839a75c9acac20168e26341ac82e15730cfaf86aef",
+        "sha256_in_prefix": "78b036de34f8d5cd5ed27c839a75c9acac20168e26341ac82e15730cfaf86aef",
+        "size_in_bytes": 4322
+      },
+      {
+        "_path": "lib/python3.8/site-packages/audioread/version.py",
+        "path_type": "hardlink",
+        "sha256": "cde7a109151dc60874b189a2fef18ede843124c8cc45960e59b1399df24cf1bf",
+        "sha256_in_prefix": "cde7a109151dc60874b189a2fef18ede843124c8cc45960e59b1399df24cf1bf",
+        "size_in_bytes": 738
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "conda-forge/osx-64::audioread==3.0.0=py38h50d1736_1",
+  "sha256": "e3ea9d796d7610b1d30bc2b6bcb10db9f71f188d029f00dbb48bb68db00772e0",
+  "size": 34494,
+  "subdir": "osx-64",
+  "timestamp": 1667037212528,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/audioread-3.0.0-py38h50d1736_1.tar.bz2",
+  "version": "3.0.0"
+}

@@ -1,0 +1,41 @@
+{
+  "arch": "x86_64",
+  "build": "py38h57a7bef_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas * openblas",
+    "libcxx >=14.0.6",
+    "libopenblas >=0.3.20,<1.0a0",
+    "numpy-base 1.24.3 py38hc93c6d9_0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/numpy-1.24.3-py38h57a7bef_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.24.3-py38h57a7bef_0.conda",
+  "legacy_bz2_md5": "b9b341eb69e7e3923d2b43ba6b2b41de",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/numpy-1.24.3-py38h57a7bef_0",
+    "type": 1
+  },
+  "md5": "996b2154ef3db6173d76fdeaf8d90964",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/numpy-1.24.3-py38h57a7bef_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "defaults/osx-64::numpy==1.24.3=py38h57a7bef_0",
+  "sha256": "e95da6cd87eaffda509645df4ba1ca3e60474d5bba0c0c0315bd84302b0f69ff",
+  "size": 12151,
+  "subdir": "osx-64",
+  "timestamp": 1682522211346,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.24.3-py38h57a7bef_0.conda",
+  "version": "1.24.3"
+}

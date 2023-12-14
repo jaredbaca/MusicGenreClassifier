@@ -1,0 +1,141 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/pypickle-1.1.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/pypickle-1.1.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/pypickle/__init__.py",
+    "lib/python3.8/site-packages/pypickle/examples.py",
+    "lib/python3.8/site-packages/pypickle/pypickle.py",
+    "lib/python3.8/site-packages/pypickle/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/pypickle/__pycache__/examples.cpython-38.pyc",
+    "lib/python3.8/site-packages/pypickle/__pycache__/pypickle.cpython-38.pyc"
+  ],
+  "fn": "pypickle-1.1.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/pypickle-1.1.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "e32788d9b7619044f117839416b121b5",
+  "name": "pypickle",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/pypickle-1.1.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "5512239ab2d6cb83a52c0d4006e969f6594acd6fde79febdc79f0fb64662352b",
+        "sha256_in_prefix": "5512239ab2d6cb83a52c0d4006e969f6594acd6fde79febdc79f0fb64662352b",
+        "size_in_bytes": 1121
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d750268e84092a7003a449a65fbff8b4803aa66fa0a1ca0cc9a7d7fa0134f61d",
+        "sha256_in_prefix": "d750268e84092a7003a449a65fbff8b4803aa66fa0a1ca0cc9a7d7fa0134f61d",
+        "size_in_bytes": 2895
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "25f16e4ee326c4cd5034830a469c90819f3f3bfea119a2d0b5483ad593dc8957",
+        "sha256_in_prefix": "25f16e4ee326c4cd5034830a469c90819f3f3bfea119a2d0b5483ad593dc8957",
+        "size_in_bytes": 1049
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "c98f6bf9c68fefd3523ac7b4010d67e0b147d88fa6130fbe2ced48ef207581f4",
+        "sha256_in_prefix": "c98f6bf9c68fefd3523ac7b4010d67e0b147d88fa6130fbe2ced48ef207581f4",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/pypickle-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "343d7b4052a942d258c0c2b2ad0c6034eb556ffc25a0eded7b6fd0568c088a9a",
+        "sha256_in_prefix": "343d7b4052a942d258c0c2b2ad0c6034eb556ffc25a0eded7b6fd0568c088a9a",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/pypickle/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "afe3cae2b814576f7b12f3fa7d9e3db631c2844e147f5df6d34317575ebc6444",
+        "sha256_in_prefix": "afe3cae2b814576f7b12f3fa7d9e3db631c2844e147f5df6d34317575ebc6444",
+        "size_in_bytes": 620
+      },
+      {
+        "_path": "site-packages/pypickle/examples.py",
+        "path_type": "hardlink",
+        "sha256": "7807cc90209c8fead56617b0e5c628073bffdbe0f57c99a69216575478927609",
+        "sha256_in_prefix": "7807cc90209c8fead56617b0e5c628073bffdbe0f57c99a69216575478927609",
+        "size_in_bytes": 276
+      },
+      {
+        "_path": "site-packages/pypickle/pypickle.py",
+        "path_type": "hardlink",
+        "sha256": "3326dac7b71ec293476a720dbe1ca5864d34b7e219bbf49d7f93be0c442fe51f",
+        "sha256_in_prefix": "3326dac7b71ec293476a720dbe1ca5864d34b7e219bbf49d7f93be0c442fe51f",
+        "size_in_bytes": 3920
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pypickle/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pypickle/__pycache__/examples.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pypickle/__pycache__/pypickle.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pypickle",
+  "sha256": "61708699364fff19c10aa2b724d0571ea8f99e5db6d960dbdbaf4ea391f7399e",
+  "size": 8683,
+  "subdir": "noarch",
+  "timestamp": 1646854179903,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pypickle-1.1.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.1.0"
+}

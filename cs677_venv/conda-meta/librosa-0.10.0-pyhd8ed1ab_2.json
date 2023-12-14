@@ -1,0 +1,635 @@
+{
+  "build": "pyhd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "audioread >=2.1.9",
+    "decorator >=4.3.0",
+    "joblib >=0.14.0",
+    "lazy_loader >=0.1",
+    "matplotlib-base >=3.3.0",
+    "msgpack-python >=1.0",
+    "numba >=0.51.0",
+    "numpy >=1.20.3,!=1.22.0,!=1.22.1,!=1.22.2",
+    "packaging >=20.0",
+    "pooch >=1.0,<1.7",
+    "pysoundfile >=0.12.1",
+    "python >=3.7",
+    "scikit-learn >=0.20.0",
+    "scipy >=1.2.0",
+    "soxr-python >=0.3.2",
+    "typing_extensions >=4.1.1"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/librosa-0.10.0-pyhd8ed1ab_2",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/LICENSE.md",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/librosa-0.10.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/librosa/__init__.py",
+    "lib/python3.8/site-packages/librosa/__init__.pyi",
+    "lib/python3.8/site-packages/librosa/_cache.py",
+    "lib/python3.8/site-packages/librosa/_typing.py",
+    "lib/python3.8/site-packages/librosa/beat.py",
+    "lib/python3.8/site-packages/librosa/core/__init__.py",
+    "lib/python3.8/site-packages/librosa/core/__init__.pyi",
+    "lib/python3.8/site-packages/librosa/core/audio.py",
+    "lib/python3.8/site-packages/librosa/core/constantq.py",
+    "lib/python3.8/site-packages/librosa/core/convert.py",
+    "lib/python3.8/site-packages/librosa/core/fft.py",
+    "lib/python3.8/site-packages/librosa/core/harmonic.py",
+    "lib/python3.8/site-packages/librosa/core/intervals.msgpack",
+    "lib/python3.8/site-packages/librosa/core/intervals.py",
+    "lib/python3.8/site-packages/librosa/core/notation.py",
+    "lib/python3.8/site-packages/librosa/core/pitch.py",
+    "lib/python3.8/site-packages/librosa/core/spectrum.py",
+    "lib/python3.8/site-packages/librosa/decompose.py",
+    "lib/python3.8/site-packages/librosa/display.py",
+    "lib/python3.8/site-packages/librosa/effects.py",
+    "lib/python3.8/site-packages/librosa/feature/__init__.py",
+    "lib/python3.8/site-packages/librosa/feature/__init__.pyi",
+    "lib/python3.8/site-packages/librosa/feature/inverse.py",
+    "lib/python3.8/site-packages/librosa/feature/rhythm.py",
+    "lib/python3.8/site-packages/librosa/feature/spectral.py",
+    "lib/python3.8/site-packages/librosa/feature/utils.py",
+    "lib/python3.8/site-packages/librosa/filters.py",
+    "lib/python3.8/site-packages/librosa/onset.py",
+    "lib/python3.8/site-packages/librosa/py.typed",
+    "lib/python3.8/site-packages/librosa/segment.py",
+    "lib/python3.8/site-packages/librosa/sequence.py",
+    "lib/python3.8/site-packages/librosa/util/__init__.py",
+    "lib/python3.8/site-packages/librosa/util/__init__.pyi",
+    "lib/python3.8/site-packages/librosa/util/_nnls.py",
+    "lib/python3.8/site-packages/librosa/util/decorators.py",
+    "lib/python3.8/site-packages/librosa/util/deprecation.py",
+    "lib/python3.8/site-packages/librosa/util/example_data/index.json",
+    "lib/python3.8/site-packages/librosa/util/example_data/registry.txt",
+    "lib/python3.8/site-packages/librosa/util/exceptions.py",
+    "lib/python3.8/site-packages/librosa/util/files.py",
+    "lib/python3.8/site-packages/librosa/util/matching.py",
+    "lib/python3.8/site-packages/librosa/util/utils.py",
+    "lib/python3.8/site-packages/librosa/version.py",
+    "lib/python3.8/site-packages/librosa/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/_cache.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/_typing.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/beat.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/audio.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/constantq.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/convert.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/fft.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/harmonic.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/intervals.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/notation.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/pitch.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/core/__pycache__/spectrum.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/decompose.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/display.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/effects.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/feature/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/feature/__pycache__/inverse.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/feature/__pycache__/rhythm.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/feature/__pycache__/spectral.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/feature/__pycache__/utils.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/filters.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/onset.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/segment.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/sequence.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/_nnls.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/decorators.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/deprecation.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/files.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/matching.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/util/__pycache__/utils.cpython-38.pyc",
+    "lib/python3.8/site-packages/librosa/__pycache__/version.cpython-38.pyc"
+  ],
+  "fn": "librosa-0.10.0-pyhd8ed1ab_2.conda",
+  "license": "ISC",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/librosa-0.10.0-pyhd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "e3d1113f98ad7469b84f891b3b37829e",
+  "name": "librosa",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/librosa-0.10.0-pyhd8ed1ab_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/LICENSE.md",
+        "path_type": "hardlink",
+        "sha256": "1746ca32b53fa31941c38b63a986e4126ab998e81a2f73a566000847a588e2a3",
+        "sha256_in_prefix": "1746ca32b53fa31941c38b63a986e4126ab998e81a2f73a566000847a588e2a3",
+        "size_in_bytes": 766
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "3dd88bc661654ddcaf646a0b991a6f59f27a323bd7e36e964ab800bc8caa8e97",
+        "sha256_in_prefix": "3dd88bc661654ddcaf646a0b991a6f59f27a323bd7e36e964ab800bc8caa8e97",
+        "size_in_bytes": 8297
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e64c30cba78823469fe26ac4cd91d73c8aa1e0d5b39b725617ccd0a67206553e",
+        "sha256_in_prefix": "e64c30cba78823469fe26ac4cd91d73c8aa1e0d5b39b725617ccd0a67206553e",
+        "size_in_bytes": 5939
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a6472d658cd44b8018567e9d27eef7ebb389662bc5d9ef1103d6ff6418e27f5f",
+        "sha256_in_prefix": "a6472d658cd44b8018567e9d27eef7ebb389662bc5d9ef1103d6ff6418e27f5f",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0223aa5c566feaf3ba03d4ef9b18c821035c5753c26ebcc3352b0c3335f11ddd",
+        "sha256_in_prefix": "0223aa5c566feaf3ba03d4ef9b18c821035c5753c26ebcc3352b0c3335f11ddd",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/librosa-0.10.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6ff36d04c02da3ae6501b8016f6eccd476a9520965476271dbe814cf92e24768",
+        "sha256_in_prefix": "6ff36d04c02da3ae6501b8016f6eccd476a9520965476271dbe814cf92e24768",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/librosa/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "41b3db0be1282e97115b576997203d75c68da82633e989b95408bc0edfb3c0c8",
+        "sha256_in_prefix": "41b3db0be1282e97115b576997203d75c68da82633e989b95408bc0edfb3c0c8",
+        "size_in_bytes": 2935
+      },
+      {
+        "_path": "site-packages/librosa/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "e034ec241c68546ac4fff2fa9f02c9040765678da8d5517bbf793c6cfdab47c1",
+        "sha256_in_prefix": "e034ec241c68546ac4fff2fa9f02c9040765678da8d5517bbf793c6cfdab47c1",
+        "size_in_bytes": 3777
+      },
+      {
+        "_path": "site-packages/librosa/_cache.py",
+        "path_type": "hardlink",
+        "sha256": "fc4053e5c092f2daeff1e22eb4ba75aed74007db848379b3a92bdba34c7836cf",
+        "sha256_in_prefix": "fc4053e5c092f2daeff1e22eb4ba75aed74007db848379b3a92bdba34c7836cf",
+        "size_in_bytes": 2561
+      },
+      {
+        "_path": "site-packages/librosa/_typing.py",
+        "path_type": "hardlink",
+        "sha256": "1773ea033223b3c80b469c6467dda4c71d5f2d038fcebad403ffc977e531b048",
+        "sha256_in_prefix": "1773ea033223b3c80b469c6467dda4c71d5f2d038fcebad403ffc977e531b048",
+        "size_in_bytes": 2292
+      },
+      {
+        "_path": "site-packages/librosa/beat.py",
+        "path_type": "hardlink",
+        "sha256": "005988a6cf729d3ba9acf92f258cb26f538f9befbdb32fd3ceb2a91d29e3a3b1",
+        "sha256_in_prefix": "005988a6cf729d3ba9acf92f258cb26f538f9befbdb32fd3ceb2a91d29e3a3b1",
+        "size_in_bytes": 18103
+      },
+      {
+        "_path": "site-packages/librosa/core/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "35c77bb65546f51b02fce640d4a1acf73d433ac7e184e0e5a5417d57947aabcc",
+        "sha256_in_prefix": "35c77bb65546f51b02fce640d4a1acf73d433ac7e184e0e5a5417d57947aabcc",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "site-packages/librosa/core/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "4179d7ae0f495fbe1619620bc1f63561b7f2b6b467cb80b0bc853b36f1ae4250",
+        "sha256_in_prefix": "4179d7ae0f495fbe1619620bc1f63561b7f2b6b467cb80b0bc853b36f1ae4250",
+        "size_in_bytes": 3504
+      },
+      {
+        "_path": "site-packages/librosa/core/audio.py",
+        "path_type": "hardlink",
+        "sha256": "2c0d00cb1806abe41fb04b5fbf22ed053a5a901359efbe578e5bbf5bd3322a68",
+        "sha256_in_prefix": "2c0d00cb1806abe41fb04b5fbf22ed053a5a901359efbe578e5bbf5bd3322a68",
+        "size_in_bytes": 57157
+      },
+      {
+        "_path": "site-packages/librosa/core/constantq.py",
+        "path_type": "hardlink",
+        "sha256": "b7504a6136572e9223a15127b6ba015402f6d405ce9bab517cb59ea05e9e64c6",
+        "sha256_in_prefix": "b7504a6136572e9223a15127b6ba015402f6d405ce9bab517cb59ea05e9e64c6",
+        "size_in_bytes": 44690
+      },
+      {
+        "_path": "site-packages/librosa/core/convert.py",
+        "path_type": "hardlink",
+        "sha256": "3efc58bd0a8111339882201891357baecb2af29a5ceca714bb6d60b3515349f5",
+        "sha256_in_prefix": "3efc58bd0a8111339882201891357baecb2af29a5ceca714bb6d60b3515349f5",
+        "size_in_bytes": 81765
+      },
+      {
+        "_path": "site-packages/librosa/core/fft.py",
+        "path_type": "hardlink",
+        "sha256": "b49895fd032d789b792ede2351455acc8cfdb95008e7fcc7fbd7746ab0833642",
+        "sha256_in_prefix": "b49895fd032d789b792ede2351455acc8cfdb95008e7fcc7fbd7746ab0833642",
+        "size_in_bytes": 1341
+      },
+      {
+        "_path": "site-packages/librosa/core/harmonic.py",
+        "path_type": "hardlink",
+        "sha256": "e2860f9f243335d97560f32839f996fd9294d311e781fad5aa98efa13164f91c",
+        "sha256_in_prefix": "e2860f9f243335d97560f32839f996fd9294d311e781fad5aa98efa13164f91c",
+        "size_in_bytes": 15959
+      },
+      {
+        "_path": "site-packages/librosa/core/intervals.msgpack",
+        "path_type": "hardlink",
+        "sha256": "fb2159492485c1786798349ab9655c0665d26d6ce7a98228550adccd59e2a941",
+        "sha256_in_prefix": "fb2159492485c1786798349ab9655c0665d26d6ce7a98228550adccd59e2a941",
+        "size_in_bytes": 5225
+      },
+      {
+        "_path": "site-packages/librosa/core/intervals.py",
+        "path_type": "hardlink",
+        "sha256": "8fbf18e06921665eafe43beb43d581856634d47ba15f52d9787e0f579e57d022",
+        "sha256_in_prefix": "8fbf18e06921665eafe43beb43d581856634d47ba15f52d9787e0f579e57d022",
+        "size_in_bytes": 15969
+      },
+      {
+        "_path": "site-packages/librosa/core/notation.py",
+        "path_type": "hardlink",
+        "sha256": "77a4845ee74afdff61a388aa98fe4b0958db03814ca8cf609a4f61931d15a4e6",
+        "sha256_in_prefix": "77a4845ee74afdff61a388aa98fe4b0958db03814ca8cf609a4f61931d15a4e6",
+        "size_in_bytes": 27284
+      },
+      {
+        "_path": "site-packages/librosa/core/pitch.py",
+        "path_type": "hardlink",
+        "sha256": "b7b3976ceca459cfaf3bc881a11152adf6e5da54b31c6da197625c4803a4e9cf",
+        "sha256_in_prefix": "b7b3976ceca459cfaf3bc881a11152adf6e5da54b31c6da197625c4803a4e9cf",
+        "size_in_bytes": 32895
+      },
+      {
+        "_path": "site-packages/librosa/core/spectrum.py",
+        "path_type": "hardlink",
+        "sha256": "a633f5bacb5b00029b95c540579bb4d7c6b7c623b1d2336cb67efe1e94dc1801",
+        "sha256_in_prefix": "a633f5bacb5b00029b95c540579bb4d7c6b7c623b1d2336cb67efe1e94dc1801",
+        "size_in_bytes": 97304
+      },
+      {
+        "_path": "site-packages/librosa/decompose.py",
+        "path_type": "hardlink",
+        "sha256": "eb7ae6eb1506f3445ece0b3431882cb5c4077e93e108a898e33530b5c7a71723",
+        "sha256_in_prefix": "eb7ae6eb1506f3445ece0b3431882cb5c4077e93e108a898e33530b5c7a71723",
+        "size_in_bytes": 20668
+      },
+      {
+        "_path": "site-packages/librosa/display.py",
+        "path_type": "hardlink",
+        "sha256": "d8b4d588c379fa06e7271364e3380cae94ee288b9cd248853f25e1bf2728327e",
+        "sha256_in_prefix": "d8b4d588c379fa06e7271364e3380cae94ee288b9cd248853f25e1bf2728327e",
+        "size_in_bytes": 65187
+      },
+      {
+        "_path": "site-packages/librosa/effects.py",
+        "path_type": "hardlink",
+        "sha256": "5b9aa4aa9fbfafb91470fc9d90c3cb106af68cb47092938505412bc62422966d",
+        "sha256_in_prefix": "5b9aa4aa9fbfafb91470fc9d90c3cb106af68cb47092938505412bc62422966d",
+        "size_in_bytes": 23870
+      },
+      {
+        "_path": "site-packages/librosa/feature/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b728c8b59c02075602f9a0097376bf6a7ca699f582285ba2552617d236f1e474",
+        "sha256_in_prefix": "b728c8b59c02075602f9a0097376bf6a7ca699f582285ba2552617d236f1e474",
+        "size_in_bytes": 968
+      },
+      {
+        "_path": "site-packages/librosa/feature/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "e7e62d81c82d77aaf9f10aeeb538183b605a4ea4aad57c8d9c430b7e3b651f39",
+        "sha256_in_prefix": "e7e62d81c82d77aaf9f10aeeb538183b605a4ea4aad57c8d9c430b7e3b651f39",
+        "size_in_bytes": 824
+      },
+      {
+        "_path": "site-packages/librosa/feature/inverse.py",
+        "path_type": "hardlink",
+        "sha256": "004ce3203d683466fa034cdf9329d0f8addb258cfce59718d73d131347088f20",
+        "sha256_in_prefix": "004ce3203d683466fa034cdf9329d0f8addb258cfce59718d73d131347088f20",
+        "size_in_bytes": 13290
+      },
+      {
+        "_path": "site-packages/librosa/feature/rhythm.py",
+        "path_type": "hardlink",
+        "sha256": "8e270fd329851dfaaebb86d8222f9b544178a3752d91bd6af5523632a48734a9",
+        "sha256_in_prefix": "8e270fd329851dfaaebb86d8222f9b544178a3752d91bd6af5523632a48734a9",
+        "size_in_bytes": 24393
+      },
+      {
+        "_path": "site-packages/librosa/feature/spectral.py",
+        "path_type": "hardlink",
+        "sha256": "7aba8db1f87b7fd5632914031f219c35200a5e22748daf98ce8bd34cd33a580f",
+        "sha256_in_prefix": "7aba8db1f87b7fd5632914031f219c35200a5e22748daf98ce8bd34cd33a580f",
+        "size_in_bytes": 76185
+      },
+      {
+        "_path": "site-packages/librosa/feature/utils.py",
+        "path_type": "hardlink",
+        "sha256": "bb3272b3ecac4636af42f4265ba3575cf52c57c20161ac27ea342f232648bc40",
+        "sha256_in_prefix": "bb3272b3ecac4636af42f4265ba3575cf52c57c20161ac27ea342f232648bc40",
+        "size_in_bytes": 9931
+      },
+      {
+        "_path": "site-packages/librosa/filters.py",
+        "path_type": "hardlink",
+        "sha256": "9b23c77e5a56fafb670d50a96fd97697b4a9c8a4abfb8366ce7775e3d8afbf95",
+        "sha256_in_prefix": "9b23c77e5a56fafb670d50a96fd97697b4a9c8a4abfb8366ce7775e3d8afbf95",
+        "size_in_bytes": 50689
+      },
+      {
+        "_path": "site-packages/librosa/onset.py",
+        "path_type": "hardlink",
+        "sha256": "2ac311d4f47af46eeff3bf6bf3a7d94a0d361e3c81793df378d120653faa4555",
+        "sha256_in_prefix": "2ac311d4f47af46eeff3bf6bf3a7d94a0d361e3c81793df378d120653faa4555",
+        "size_in_bytes": 20361
+      },
+      {
+        "_path": "site-packages/librosa/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/librosa/segment.py",
+        "path_type": "hardlink",
+        "sha256": "5a7ac3adf03c6d379843193db5aa5e94faf14803c56ba80864598cd2204eb021",
+        "sha256_in_prefix": "5a7ac3adf03c6d379843193db5aa5e94faf14803c56ba80864598cd2204eb021",
+        "size_in_bytes": 50859
+      },
+      {
+        "_path": "site-packages/librosa/sequence.py",
+        "path_type": "hardlink",
+        "sha256": "96e22f86eccdaa1bb0e86f7125b2cb37ad2d008743d5538dfc7b820b925c1aea",
+        "sha256_in_prefix": "96e22f86eccdaa1bb0e86f7125b2cb37ad2d008743d5538dfc7b820b925c1aea",
+        "size_in_bytes": 69033
+      },
+      {
+        "_path": "site-packages/librosa/util/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "435c710a09de4bb7afb15397cf61dbc747b99dbe02451ebd63a68d77350db398",
+        "sha256_in_prefix": "435c710a09de4bb7afb15397cf61dbc747b99dbe02451ebd63a68d77350db398",
+        "size_in_bytes": 1063
+      },
+      {
+        "_path": "site-packages/librosa/util/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "48741a2a165e3734fe706eab087eb46cd9f984c16652673ae1ad4ed7794e698b",
+        "sha256_in_prefix": "48741a2a165e3734fe706eab087eb46cd9f984c16652673ae1ad4ed7794e698b",
+        "size_in_bytes": 1369
+      },
+      {
+        "_path": "site-packages/librosa/util/_nnls.py",
+        "path_type": "hardlink",
+        "sha256": "e43c1095e4d28614442c2e481387fefc57c4f2c6bd1d2b293d195667681ab05c",
+        "sha256_in_prefix": "e43c1095e4d28614442c2e481387fefc57c4f2c6bd1d2b293d195667681ab05c",
+        "size_in_bytes": 5302
+      },
+      {
+        "_path": "site-packages/librosa/util/decorators.py",
+        "path_type": "hardlink",
+        "sha256": "4708e2eacab6902861ded4d5b1b98a19f208cc3aca04f324e1a428ce5642a25c",
+        "sha256_in_prefix": "4708e2eacab6902861ded4d5b1b98a19f208cc3aca04f324e1a428ce5642a25c",
+        "size_in_bytes": 3023
+      },
+      {
+        "_path": "site-packages/librosa/util/deprecation.py",
+        "path_type": "hardlink",
+        "sha256": "c1e7af2841362806b59352920eb29330e1e81b75897b27d3357e801b75e4a218",
+        "sha256_in_prefix": "c1e7af2841362806b59352920eb29330e1e81b75897b27d3357e801b75e4a218",
+        "size_in_bytes": 1624
+      },
+      {
+        "_path": "site-packages/librosa/util/example_data/index.json",
+        "path_type": "hardlink",
+        "sha256": "0367323222e86302c9e3e490a3dd3734d5b3ac20ff0a8d5d5dc3b48bfffb85df",
+        "sha256_in_prefix": "0367323222e86302c9e3e490a3dd3734d5b3ac20ff0a8d5d5dc3b48bfffb85df",
+        "size_in_bytes": 1574
+      },
+      {
+        "_path": "site-packages/librosa/util/example_data/registry.txt",
+        "path_type": "hardlink",
+        "sha256": "5befa54e60134ec84fe70d786b9e435c647a6f38553543792697b17cc81e9e77",
+        "sha256_in_prefix": "5befa54e60134ec84fe70d786b9e435c647a6f38553543792697b17cc81e9e77",
+        "size_in_bytes": 4368
+      },
+      {
+        "_path": "site-packages/librosa/util/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "30a1aede729a7fb69b9749c42ead9fe3f287fe5bd3c017b88ca5c304a82a599c",
+        "sha256_in_prefix": "30a1aede729a7fb69b9749c42ead9fe3f287fe5bd3c017b88ca5c304a82a599c",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "site-packages/librosa/util/files.py",
+        "path_type": "hardlink",
+        "sha256": "5b90feb3894433b0507e2a947d589b45f8bdb08aa0f8333904a5680f27363a73",
+        "sha256_in_prefix": "5b90feb3894433b0507e2a947d589b45f8bdb08aa0f8333904a5680f27363a73",
+        "size_in_bytes": 7592
+      },
+      {
+        "_path": "site-packages/librosa/util/matching.py",
+        "path_type": "hardlink",
+        "sha256": "de344eca1b68fb962545bbf975e55348759c89f1b6149a30f176bcdfc652b54b",
+        "sha256_in_prefix": "de344eca1b68fb962545bbf975e55348759c89f1b6149a30f176bcdfc652b54b",
+        "size_in_bytes": 12513
+      },
+      {
+        "_path": "site-packages/librosa/util/utils.py",
+        "path_type": "hardlink",
+        "sha256": "dbd41cfb98ca0bb18061efec019e8058c096df0392f7e128beeb15ca9c70668e",
+        "sha256_in_prefix": "dbd41cfb98ca0bb18061efec019e8058c096df0392f7e128beeb15ca9c70668e",
+        "size_in_bytes": 76927
+      },
+      {
+        "_path": "site-packages/librosa/version.py",
+        "path_type": "hardlink",
+        "sha256": "80d89ad6db193819ccf6d294fef52d1d52c026204192328e570564bdeb2deeb5",
+        "sha256_in_prefix": "80d89ad6db193819ccf6d294fef52d1d52c026204192328e570564bdeb2deeb5",
+        "size_in_bytes": 1602
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/_cache.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/_typing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/beat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/audio.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/constantq.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/convert.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/fft.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/harmonic.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/intervals.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/notation.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/pitch.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/core/__pycache__/spectrum.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/decompose.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/display.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/effects.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/feature/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/feature/__pycache__/inverse.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/feature/__pycache__/rhythm.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/feature/__pycache__/spectral.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/feature/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/filters.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/onset.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/segment.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/sequence.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/_nnls.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/decorators.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/deprecation.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/files.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/matching.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/util/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/librosa/__pycache__/version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge/noarch::librosa==0.10.0=pyhd8ed1ab_2",
+  "sha256": "1d37e92145deb55d9e4d38a1c47650b2c1ce1ede1b31bd53100c2e0cce2cddd9",
+  "size": 192988,
+  "subdir": "noarch",
+  "timestamp": 1679083603094,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/librosa-0.10.0-pyhd8ed1ab_2.conda",
+  "version": "0.10.0"
+}

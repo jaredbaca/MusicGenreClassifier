@@ -1,0 +1,191 @@
+{
+  "arch": "x86_64",
+  "build": "h046ec9c_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=11.0.0",
+    "libogg >=1.3.4,<1.4.0a0"
+  ],
+  "extracted_package_dir": "/Users/jbaca/opt/anaconda3/pkgs/libvorbis-1.3.7-h046ec9c_0",
+  "features": "",
+  "files": [
+    "include/vorbis/codec.h",
+    "include/vorbis/vorbisenc.h",
+    "include/vorbis/vorbisfile.h",
+    "lib/cmake/Vorbis/VorbisConfig.cmake",
+    "lib/cmake/Vorbis/VorbisConfigVersion.cmake",
+    "lib/cmake/Vorbis/VorbisTargets-release.cmake",
+    "lib/cmake/Vorbis/VorbisTargets.cmake",
+    "lib/libvorbis.0.4.9.dylib",
+    "lib/libvorbis.0.dylib",
+    "lib/libvorbis.dylib",
+    "lib/libvorbisenc.2.0.12.dylib",
+    "lib/libvorbisenc.2.dylib",
+    "lib/libvorbisenc.dylib",
+    "lib/libvorbisfile.3.3.8.dylib",
+    "lib/libvorbisfile.3.dylib",
+    "lib/libvorbisfile.dylib",
+    "lib/pkgconfig/vorbis.pc",
+    "lib/pkgconfig/vorbisenc.pc",
+    "lib/pkgconfig/vorbisfile.pc"
+  ],
+  "fn": "libvorbis-1.3.7-h046ec9c_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/jbaca/opt/anaconda3/pkgs/libvorbis-1.3.7-h046ec9c_0",
+    "type": 1
+  },
+  "md5": "fbbda1fede0aadaa252f6919148c4ce1",
+  "name": "libvorbis",
+  "package_tarball_full_path": "/Users/jbaca/opt/anaconda3/pkgs/libvorbis-1.3.7-h046ec9c_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/vorbis/codec.h",
+        "path_type": "hardlink",
+        "sha256": "1d031e3cbae7defe966426e33802450a56388a1323eec1ec629e6d4095c676c5",
+        "sha256_in_prefix": "1d031e3cbae7defe966426e33802450a56388a1323eec1ec629e6d4095c676c5",
+        "size_in_bytes": 8387
+      },
+      {
+        "_path": "include/vorbis/vorbisenc.h",
+        "path_type": "hardlink",
+        "sha256": "d2aba0527252dc265ffc40bc9b1955d5ac0dc8d5e16d9376fa366c05fa27dc7f",
+        "sha256_in_prefix": "d2aba0527252dc265ffc40bc9b1955d5ac0dc8d5e16d9376fa366c05fa27dc7f",
+        "size_in_bytes": 16990
+      },
+      {
+        "_path": "include/vorbis/vorbisfile.h",
+        "path_type": "hardlink",
+        "sha256": "7d98264e57b0190ef0a2701a0bea5f982e82fc1bedd93cd9408a2fff7790f803",
+        "sha256_in_prefix": "7d98264e57b0190ef0a2701a0bea5f982e82fc1bedd93cd9408a2fff7790f803",
+        "size_in_bytes": 7990
+      },
+      {
+        "_path": "lib/cmake/Vorbis/VorbisConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "15d7787d026bf77e74bd967ba4f557814d207db0e7f18a8fc8f3ff7d07e93eba",
+        "sha256_in_prefix": "15d7787d026bf77e74bd967ba4f557814d207db0e7f18a8fc8f3ff7d07e93eba",
+        "size_in_bytes": 1260
+      },
+      {
+        "_path": "lib/cmake/Vorbis/VorbisConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "38abb23a67ba6f2b764dcf6014301b449abe7bc708eb82ceb4e9b69afe1f54b5",
+        "sha256_in_prefix": "38abb23a67ba6f2b764dcf6014301b449abe7bc708eb82ceb4e9b69afe1f54b5",
+        "size_in_bytes": 2742
+      },
+      {
+        "_path": "lib/cmake/Vorbis/VorbisTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "c2b0fcb12bcfd6951e8ee64a58f2485ee9f566dc98dc79fd3249cce688c6a979",
+        "sha256_in_prefix": "c2b0fcb12bcfd6951e8ee64a58f2485ee9f566dc98dc79fd3249cce688c6a979",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "lib/cmake/Vorbis/VorbisTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "55d5b9c6f7e21bbb037688b52cad04b5e6884dcb18015e96a4f170aad9102263",
+        "sha256_in_prefix": "55d5b9c6f7e21bbb037688b52cad04b5e6884dcb18015e96a4f170aad9102263",
+        "size_in_bytes": 3967
+      },
+      {
+        "_path": "lib/libvorbis.0.4.9.dylib",
+        "path_type": "softlink",
+        "sha256": "e85993f55bccfee9b998adddd62d27a2d7e27c7706cfe8bfab5d91b7b0d010f3",
+        "size_in_bytes": 219628
+      },
+      {
+        "_path": "lib/libvorbis.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "e85993f55bccfee9b998adddd62d27a2d7e27c7706cfe8bfab5d91b7b0d010f3",
+        "sha256_in_prefix": "e85993f55bccfee9b998adddd62d27a2d7e27c7706cfe8bfab5d91b7b0d010f3",
+        "size_in_bytes": 219628
+      },
+      {
+        "_path": "lib/libvorbis.dylib",
+        "path_type": "softlink",
+        "sha256": "e85993f55bccfee9b998adddd62d27a2d7e27c7706cfe8bfab5d91b7b0d010f3",
+        "size_in_bytes": 219628
+      },
+      {
+        "_path": "lib/libvorbisenc.2.0.12.dylib",
+        "path_type": "softlink",
+        "sha256": "8e7558bd4c95efbe529a280bd343ecf90a4e8c05e586716987de3ea8f495d922",
+        "size_in_bytes": 691312
+      },
+      {
+        "_path": "lib/libvorbisenc.2.dylib",
+        "path_type": "hardlink",
+        "sha256": "8e7558bd4c95efbe529a280bd343ecf90a4e8c05e586716987de3ea8f495d922",
+        "sha256_in_prefix": "8e7558bd4c95efbe529a280bd343ecf90a4e8c05e586716987de3ea8f495d922",
+        "size_in_bytes": 691312
+      },
+      {
+        "_path": "lib/libvorbisenc.dylib",
+        "path_type": "softlink",
+        "sha256": "8e7558bd4c95efbe529a280bd343ecf90a4e8c05e586716987de3ea8f495d922",
+        "size_in_bytes": 691312
+      },
+      {
+        "_path": "lib/libvorbisfile.3.3.8.dylib",
+        "path_type": "softlink",
+        "sha256": "3e683ecc923c0f37bb8a71df0b5bb96e276314892958e4a4a48dfd018c4e2f59",
+        "size_in_bytes": 42812
+      },
+      {
+        "_path": "lib/libvorbisfile.3.dylib",
+        "path_type": "hardlink",
+        "sha256": "3e683ecc923c0f37bb8a71df0b5bb96e276314892958e4a4a48dfd018c4e2f59",
+        "sha256_in_prefix": "3e683ecc923c0f37bb8a71df0b5bb96e276314892958e4a4a48dfd018c4e2f59",
+        "size_in_bytes": 42812
+      },
+      {
+        "_path": "lib/libvorbisfile.dylib",
+        "path_type": "softlink",
+        "sha256": "3e683ecc923c0f37bb8a71df0b5bb96e276314892958e4a4a48dfd018c4e2f59",
+        "size_in_bytes": 42812
+      },
+      {
+        "_path": "lib/pkgconfig/vorbis.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libvorbis_1610609671816/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "8a10be0c36a2bfa8145b1c1195577552b457b1f763af65addd154a5a5ef4a222",
+        "sha256_in_prefix": "51bf3dad0f7f103cc9baa539acfb09a3f0720eab53a36d61080399c41d4a580b",
+        "size_in_bytes": 1296
+      },
+      {
+        "_path": "lib/pkgconfig/vorbisenc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libvorbis_1610609671816/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "cc41835d76a62dc14df3266205faab121ece0849abfbda70ade2bdf98d1836cc",
+        "sha256_in_prefix": "0b643b3d8ace9e9dfff0fa6395c02dc363f61630b7d7a9f5eeb1deb11fe0de78",
+        "size_in_bytes": 1360
+      },
+      {
+        "_path": "lib/pkgconfig/vorbisfile.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libvorbis_1610609671816/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "6a24e6c0b36630d79297dfb30c70d9fdcfb49e8105f447ecda0c796dd5769d2d",
+        "sha256_in_prefix": "b5b47749d14876e1e70d4649d96c3f73acf1432cc05f5c361ef7d2f1c9a4c2ff",
+        "size_in_bytes": 1386
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "conda-forge/osx-64::libvorbis==1.3.7=h046ec9c_0",
+  "sha256": "fbcce1005efcd616e452dea07fe34893d8dd13c65628e74920eeb68ac549faf7",
+  "size": 254208,
+  "subdir": "osx-64",
+  "timestamp": 1610609857389,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libvorbis-1.3.7-h046ec9c_0.tar.bz2",
+  "version": "1.3.7"
+}
