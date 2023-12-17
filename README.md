@@ -7,6 +7,7 @@ The goal of this project is to evaluate the accuracy of several machine learning
 
 # Project Overview
 The project is a Jupyter Notebook containing the Python code used to train and compare several classification models from the SciKit Learn library. The most accurate of these models, the Random Forest Classifier, is then used in a standalone application along with a custom built UI in the classifier.py file. Instructions for launching the Classifier application can be found in the separate README file.
+
 <br>[Check out the video walkthrough here!](https://youtu.be/-yvIHN7wlec)
 
 
