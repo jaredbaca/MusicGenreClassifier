@@ -2,7 +2,7 @@
 
 The goal of this project is to evaluate the accuracy of several machine learning algorithms for classifying music files by genre. Some preprocessing and analysis is done on the data including feature importance, a correlation matrix, and a scatterplot showing the relationship between the two most important features.
 
-<img width="716" alt="Screen Shot 2023-12-17 at 1 16 19 PM" src="https://github.com/jaredbaca/MusicGenreClassifier/assets/110132943/28d6bad6-ee92-4b74-b529-fa1a6910771a">
+<img width="500" alt="Screen Shot 2023-12-17 at 1 16 19 PM" src="https://github.com/jaredbaca/MusicGenreClassifier/assets/110132943/28d6bad6-ee92-4b74-b529-fa1a6910771a">
 
 [Check out the video walkthrough here!](https://youtu.be/-yvIHN7wlec)
 
