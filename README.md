@@ -89,7 +89,6 @@ Tzanetakis, George, and Cook Perry. Music Genre Classification of Audio Signals.
 <br>McFee, Brian, et al. "Librosa: Audio and Music Signal Analysis in Python". SciPy. 2015, 2015. Print.
 
 <br>Cd. "Spotify Genre Classification Algorithm." Towards Data Science. April 22, 2021. Web. <https://towardsdatascience.com/spotify-genre-classification-algorithm-88051db23d42>.
-![image](https://github.com/jaredbaca/MusicGenreClassifier/assets/110132943/ecc33f3f-2d43-47a3-b037-e5eb494e4dfd)
 
 
 
