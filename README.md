@@ -1,4 +1,7 @@
 # MusicGenreClassifier
+
+<img width="716" alt="Screen Shot 2023-12-17 at 1 16 19 PM" src="https://github.com/jaredbaca/MusicGenreClassifier/assets/110132943/28d6bad6-ee92-4b74-b529-fa1a6910771a">
+
 The goal of this project is to evaluate the accuracy of several machine learning algorithms for classifying music files by genre. Some preprocessing and analysis is done on the data including feature importance, a correlation matrix, and a scatterplot showing the relationship between the 2 most important features.
 
 # Project Structure
@@ -14,6 +17,4 @@ The project is a Jupyter Notebook containing the Python code used to train and c
 - SciKit Learn
 - Tkinter
 
-# Project Report
 
-[CS677_JaredBaca_FinalProjectReport.pdf](https://github.com/jaredbaca/MusicGenreClassifier/files/13697317/CS677_JaredBaca_FinalProjectReport.pdf)
